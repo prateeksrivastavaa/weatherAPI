@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="adb81dfaad409f9902841e411de080b0426a424a">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75f2d0fa02c649beddc387a75fa430fccda1507c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_299f8e8a654dc471c1793f55b09eb8f06adfc5aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_67baa486f2ed1e90149d6517d9462203d8d2c7c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_719f6f2ff354901eb77dc98f570a91b0ba2d0aa3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_9557c9a9f8c07ffa29123706d3b6f9ab10de5175\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5acfae50771ec44880528b3018b8ec0596c5ca50">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d4f2e16653c0babb772eb3c602b1fede40f9c95\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_e3ec48a330de87a2584c11f199266f2774eb01fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_e5db76cab78d7e205b9ceb1aec3d4ad5e3780737\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_ac1fd9e472c73980fcec08104a0773a381948454\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\w7\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\w7\Downloads\Telegram Desktop\Weather\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_92be7ac2ff741aff7fbe297b17e2a579adc2af3e\classes.dex" />
+    </item>
+
+</items>
